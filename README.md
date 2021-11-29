@@ -8,4 +8,5 @@ A versioned file system for data analytic workload
 
 # References
 [1] Azure Data Lake Store: A Hyperscale Distributed File Service for Big Data Analytics (SigMod 2017)
+
 [2] How to Copy Files (Fast'2020)
